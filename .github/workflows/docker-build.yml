@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: trinhtran2151995/hcr/python-helloworld:latest
+          tags: trinhtran2151995/python-helloworld:latest
